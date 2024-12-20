@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>an0nbil</title>
+    <link>https://an0nbil.github.io/</link>
+    <description>Recent content on an0nbil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© an0nbil</copyright>
+    <lastBuildDate>Fri, 20 Dec 2024 16:27:54 +0500</lastBuildDate>
+    <atom:link href="https://an0nbil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://an0nbil.github.io/posts/mypost/</link>
+      <pubDate>Fri, 20 Dec 2024 16:27:54 +0500</pubDate>
+      <guid>https://an0nbil.github.io/posts/mypost/</guid>
+      <description>This is some content.</description>
+    </item>
+  </channel>
+</rss>
