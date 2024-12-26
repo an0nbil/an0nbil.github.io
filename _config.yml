@@ -16,6 +16,8 @@ timezone: Asia/Karachi
 
 title: an0nbil
 
+favicon: /assets/images/favicon.png
+
 tagline: Easy Hacking Guides on CTFs, Bug Bounty, OSINT, and More!
 
 description: >- # used by seo meta and the atom feed
