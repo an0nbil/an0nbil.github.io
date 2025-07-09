@@ -4,6 +4,7 @@ title: "BlitzCTF - The Lost Dog OSINT"
 categories: [CTF Writeup, OSINT]
 tags: [BlitzCTF Writeup, The Lost Dog, OSINT]
 description: "Step-by-Step Writeup for BlitzCTF's The Lost Dog OSINT Challenge"
+pin: true
 ---
 
 ## Challenge Overview
