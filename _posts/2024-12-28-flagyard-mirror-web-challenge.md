@@ -4,6 +4,7 @@ title: "FlagYard Mirror Web Challenge"
 categories: [CTF Writeup, Web Exploitation]
 tags: [FlagYard Writeup, Mirror Challenge, Web Exploitation]
 description: "Step-by-Step Writeup for FlagYard's Mirror Web Challenge"
+pin: true
 ---
 
 # Challenge Overview
