@@ -4,6 +4,7 @@ title: "BlitzCTF - Auditory Terms Misc"
 categories: [CTF Writeup, Misc, Forensics]
 tags: [BlitzCTF Writeup, Auditory Terms, Misc, Forensics]
 description: "Step-by-Step Writeup for BlitzCTF's Auditory Terms Misc Challenge"
+pin: true
 ---
 
 ## Challenge Overview
