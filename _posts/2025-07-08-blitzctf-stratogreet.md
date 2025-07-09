@@ -4,6 +4,7 @@ title: "BlitzCTF - Stratogreet Misc"
 categories: [CTF Writeup, Misc, Satellite Hacking]
 tags: [BlitzCTF Writeup, Stratogreet, Misc, SSTV]
 description: "Step-by-Step Writeup for BlitzCTF's Stratogreet Misc Challenge"
+pin: true
 ---
 
 ## Challenge Overview
