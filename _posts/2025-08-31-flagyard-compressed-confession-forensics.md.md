@@ -4,6 +4,7 @@ title: "FlagYard Compressed Confession Forensics Challenge"
 categories: [CTF Writeup, Forensics]
 tags: [FlagYard Writeup, Compressed Confession Challenge, Forensics]
 description: "Step-by-Step Writeup for FlagYard's Compressed Confession Forensics Challenge"
+pin: true
 ---
 
 # Challenge Overview
